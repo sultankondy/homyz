@@ -16,11 +16,3 @@ Homyz is a web application built with React that allows users to browse and book
 ## Deployment
 
 Homyz is deployed using Cloudflare, ensuring fast and reliable access for users worldwide. You can visit the live website by following this [link](https://homyz-8dw.pages.dev/).
-
-## Getting Started
-
-To run Homyz locally on your machine, follow these steps:
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/homyz.git
